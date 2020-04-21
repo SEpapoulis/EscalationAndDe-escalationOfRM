@@ -15,25 +15,25 @@ Bioinformatic analysis is limited to OS/X and Linux due to alignment software li
 ## Installation
 
 Navigate to your directory of choice and clone our github repo  
-`https://github.com/SEpapoulis/EscalationAndDe-escalationOfRM.git`  
+`git clone https://github.com/SEpapoulis/EscalationAndDe-escalationOfRM.git`  
 From here, launch any of our jupyter notebooks to view our code, or look at demo/Demo.ipynb for a easily executable sample of our analysis!
 
 #### Easy Installation of Dependencies
-We __highly__ recommend installing the [Anaconda data science package](https://www.anaconda.com/distribution/) as all software/modules required is availble through conda install. After anaconda is installed, enter the following in the conda prompt:
+We __highly__ recommend installing the [Anaconda data science package](https://www.anaconda.com/distribution/) as all software/modules required is availble through conda install. After anaconda is installed, enter the following in the conda prompt:  
 `conda install -c bioconda hmmer`  
 `conda install -c bioconda blast`  
 `conda install -c bioconda cd-hit`  
 `conda install -c bioconda hhsuite`  
 
 #### Expert Installation of Dependencies
-Independently install all of the dependencies on your machine.
+Independently install all of the dependencies on your machine.  
 [cdhit](https://github.com/weizhongli/cdhit)  
 [hhsuite](https://github.com/soedinglab/hh-suite)  
 [HMMER](http://hmmer.org/download.html)  
 [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)  
 
 ## Data Demo
-We have provided a demo of RM pipeline as well as some sample code to run numerical simulations using our memory model. Open the jupyer notebook and start executing cells! The notebook highlights modifications you can make to run other assemblies from Refseq. While the sample bioinformatic analysis with *Microcystis* takes ~15min, numerical simulations may take between one and two hours depending on your machine. If you wish to see all notebooks used in this research, please see the NotebooksAndData directory.
+We have provided a demo of RM pipeline as well as some sample code to run numerical simulations using our memory model. Open the jupyer notebook and start executing cells! The code used in this demo is a representative sample of the whole project- bioinformatic code was applied to all 139,000 genomes and numerical simulations were similarly executed as described. While the sample bioinformatic analysis with *Microcystis* takes ~15min, numerical simulations may take between one and two hours depending on your machine. If you wish to see all notebooks used in this research, please see the NotebooksAndData directory.
 
 
 ### Viewing project code

@@ -1,0 +1,33 @@
+assembly,NCBI_taxid,phylum,genus,name,strain,assembly_level,refseq_category,ftp
+GCF_001725075.1,267869,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-98,NIES-98,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/725/075/GCF_001725075.1_ASM172507v1
+GCF_001885655.1,1914537,Cyanobacteria,Microcystis,Microcystis aeruginosa NaRes975,NaRes975,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/885/655/GCF_001885655.1_ASM188565v1
+GCF_000312165.1,1160286,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9717,PCC 9717,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/165/GCF_000312165.1_ASM31216v1
+GCF_000312185.1,1160281,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9443,PCC 9443,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/185/GCF_000312185.1_ASM31218v1
+GCF_000312205.1,213618,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 7941,7941,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/205/GCF_000312205.1_ASM31220v1
+GCF_000312225.1,1160283,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9807,PCC 9807,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/225/GCF_000312225.1_ASM31222v1
+GCF_000312245.1,1160284,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9808,PCC 9808,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/245/GCF_000312245.1_ASM31224v1
+GCF_001704955.2,1698524,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-2481,NIES-2481,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/704/955/GCF_001704955.2_ASM170495v2
+GCF_000981785.2,1641812,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-2549,NIES-2549,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/981/785/GCF_000981785.2_ASM98178v2
+GCF_001895325.1,1914535,Cyanobacteria,Microcystis,Microcystis aeruginosa CHAOHU 1326,CHAOHU 1326,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/895/325/GCF_001895325.1_ASM189532v1
+GCF_000330925.1,1134457,Cyanobacteria,Microcystis,Microcystis aeruginosa TAIHU98,TAIHU98,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/330/925/GCF_000330925.1_MicAerT1.0
+GCF_002897315.1,449468,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-298,NIES-298,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/897/315/GCF_002897315.1_ASM289731v1
+GCF_002095975.1,1903187,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 7806SL,PCC 7806SL,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/095/975/GCF_002095975.1_ASM209597v1
+GCF_002897275.1,449468,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-298,NIES-298,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/897/275/GCF_002897275.1_ASM289727v1
+GCF_000312285.1,721123,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9701,PCC 9701,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/285/GCF_000312285.1_ASM31228v1
+GCF_000599945.1,267870,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 7005,PCC 7005,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/599/945/GCF_000599945.1_Mic70051.0
+GCF_003019735.1,1967666,Cyanobacteria,Microcystis,Microcystis sp. MC19,MC19,Complete Genome,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/019/735/GCF_003019735.1_ASM301973v1
+GCF_000332585.1,1235808,Cyanobacteria,Microcystis,Microcystis aeruginosa DIANCHI905,DIANCHI905,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/332/585/GCF_000332585.1_MicAerD1.0
+GCF_000312725.1,1160282,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9806,PCC 9806,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/725/GCF_000312725.1_ASM31272v1
+GCF_000010625.1,449447,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-843,NIES-843,Complete Genome,representative genome,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/625/GCF_000010625.1_ASM1062v1
+GCF_001578075.1,449441,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-88,NIES-88,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/578/075/GCF_001578075.1_ASM157807v1
+GCF_000307995.1,1160280,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9432,PCC 9432,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/307/995/GCF_000307995.1_ASM30799v2
+GCF_000312265.1,1160285,Cyanobacteria,Microcystis,Microcystis aeruginosa PCC 9809,PCC 9809,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/312/265/GCF_000312265.1_ASM31226v1
+GCF_000297435.1,1160279,Cyanobacteria,Microcystis,Microcystis sp. T1-4,T1-4,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/297/435/GCF_000297435.1_ASM29743v1
+GCF_000787675.1,449439,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-44,NIES-44,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/787/675/GCF_000787675.1_ASM78767v1
+GCF_000412595.1,482300,Cyanobacteria,Microcystis,Microcystis aeruginosa SPC777,SPC777,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/412/595/GCF_000412595.1_spc777-v1
+GCF_002933835.1,449440,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-87,NIES-87,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/933/835/GCF_002933835.1_ASM293383v1
+GCF_002025445.1,1960155,Cyanobacteria,Microcystis,Microcystis aeruginosa KW,KW,Contig,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/025/445/GCF_002025445.1_KWv02
+GCF_003112475.1,1502726,Cyanobacteria,Microcystis,Microcystis sp. 0824,0824,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/112/475/GCF_003112475.1_ASM311247v1
+GCF_003206555.1,1979544,Cyanobacteria,Microcystis,Microcystis aeruginosa Sj,Sj,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/206/555/GCF_003206555.1_ASM320655v1
+GCF_003206625.1,449534,Cyanobacteria,Microcystis,Microcystis aeruginosa NIES-1211,NIES-1211,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/206/625/GCF_003206625.1_ASM320662v1
+GCF_003730145.1,2486203,Cyanobacteria,Microcystis,Microcystis aeruginosa FACHB-524,FACHB-524,Scaffold,,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/730/145/GCF_003730145.1_ASM373014v1
